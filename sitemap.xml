@@ -2,12 +2,47 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://kb.ramostec.com/</loc>
-         <lastmod>2023-10-21</lastmod>
+         <lastmod>2023-10-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://kb.ramostec.com/about/</loc>
-         <lastmod>2023-10-21</lastmod>
+         <lastmod>2023-10-28</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://kb.ramostec.com/cybersec/cybersec/</loc>
+         <lastmod>2023-10-28</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://kb.ramostec.com/databases/database/</loc>
+         <lastmod>2023-10-28</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://kb.ramostec.com/devops/devops/</loc>
+         <lastmod>2023-10-28</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://kb.ramostec.com/splunk/splunk/</loc>
+         <lastmod>2023-10-28</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://kb.ramostec.com/sre/sre/</loc>
+         <lastmod>2023-10-28</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://kb.ramostec.com/systems/systems/</loc>
+         <lastmod>2023-10-28</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://kb.ramostec.com/systems/openssl/selfsigncert_20231022_howto/</loc>
+         <lastmod>2023-10-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
